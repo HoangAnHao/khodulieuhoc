@@ -1,0 +1,191 @@
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+#image_1594034986 {
+  width: 100%;
+}
+#image_314012227 {
+  width: 100%;
+}
+#image_1837583223 {
+  width: 100%;
+}
+#image_913055734 {
+  width: 100%;
+}
+.TextCaptions .flickity-slider{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .TextCaptions{
+    padding: 20px;
+  }
+  .TextCaptions .item{
+    margin: 0 !important;
+    padding: 0 !important;
+    height: 45px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    border-right: 1px solid #333;
+    color: #333;
+  }
+#section_1543668900 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(235, 235, 235);
+}
+#section_447122238 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#section_1002956924 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: rgb(235, 235, 235);
+}
+#section_533353561 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: rgb(255, 255, 255);
+}
+#section_338707954 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: rgb(235, 235, 235);
+}
+#section_1939299435 {.hotline-footer{display:none}
+
+@media  (max-width: 767px) {
+
+.hotline-footer{display:block; position:fixed; bottom:0; width:100%; height:50px; z-index:99; background:rgba(0,0,0,0.6)}
+
+.hotline-footer .left{    width: 65%;
+
+    float: left;
+
+    height: 100%;
+
+    color: white;
+
+    line-height: 43px;
+
+    text-align: center;}
+
+.hotline-footer .right{    width: 35%;
+
+    float: right;
+
+    height: 100%;
+
+    line-height: 43px;
+
+    text-align: center;}.absolute-footer{font-size:13px}
+
+.blog-single .large-9, .blog-single .large-3{    flex-basis: 100%;
+
+ max-width: 100%;}.blog-single .large-3{padding-left:15px; font-size:15px}
+
+ 
+
+.blog-single .large-3 .widget-area .section4{display:none}.tin-tuc-section .cot1-2{display:none}.hotline-footer a{color:white}
+
+.hotline-footer a{display:block;}.hotline-footer .left a{    background: #0082d0;
+
+    line-height: 40px;
+
+    margin: 5px;
+
+ border-radius: 3px;}.hotline-footer .right a{background: #3fb801;
+
+    line-height: 40px;
+
+    margin: 5px;
+
+ border-radius: 3px;}
+
+.hotline-footer .left img, .hotline-footer .right img{width:30px;    padding-right: 10px;}}
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: rgb(255, 255, 255);
+}
+#image_685245890 {
+  width: 28%;
+}
+#section_1680519131 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: rgb(22, 22, 22);
+}.hotline-footer{display:none}
+
+@media  (max-width: 767px) {
+
+.hotline-footer{display:block; position:fixed; bottom:0; width:100%; height:50px; z-index:99; background:rgba(0,0,0,0.6)}
+
+.hotline-footer .left{    width: 65%;
+
+    float: left;
+
+    height: 100%;
+
+    color: white;
+
+    line-height: 43px;
+
+    text-align: center;}
+
+.hotline-footer .right{    width: 35%;
+
+    float: right;
+
+    height: 100%;
+
+    line-height: 43px;
+
+    text-align: center;}.absolute-footer{font-size:13px}
+
+.blog-single .large-9, .blog-single .large-3{    flex-basis: 100%;
+
+ max-width: 100%;}.blog-single .large-3{padding-left:15px; font-size:15px}
+
+ 
+
+.blog-single .large-3 .widget-area .section4{display:none}.tin-tuc-section .cot1-2{display:none}.hotline-footer a{color:white}
+
+.hotline-footer a{display:block;}.hotline-footer .left a{    background: #0082d0;
+
+    line-height: 40px;
+
+    margin: 5px;
+
+ border-radius: 3px;}.hotline-footer .right a{background: #3fb801;
+
+    line-height: 40px;
+
+    margin: 5px;
+
+ border-radius: 3px;}
+
+.hotline-footer .left img, .hotline-footer .right img{width:30px;    padding-right: 10px;}}
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
